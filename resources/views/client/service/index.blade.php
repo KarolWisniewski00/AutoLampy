@@ -3,11 +3,11 @@
 <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-12 md:pt-20 md:pb-24">
     <!-- Title -->
     <div class="max-w-2xl mx-auto text-center mb-10 lg:mb-14">
-        <h2 class="text-2xl font-bold md:text-3xl text-gray-800 dark:text-gray-200">
-            Kompleksowe usługi w <span class="text-carrot-500 dark:text-carrot-500">Auto Lampy</span>
+        <h2 class="text-2xl font-bold md:text-3xl text-gray-800">
+            Kompleksowe usługi w <span class="text-carrot-500">Auto Lampy</span>
         </h2>
 
-        <p class="text-gray-500 mt-2 dark:text-gray-400">
+        <p class="text-gray-500 mt-2">
             Auto Lampy to firma, która funkcjonuje na rynku od 1993 roku. Odkąd istniejemy, naszej pracy przyświeca przede wszystkim idea świadczenia usług jak najwyższe jakości. Dowodem na to są liczne nagrody branżowe, jakie zdobyliśmy przez lata funkcjonowania. Mimo wszystko jednak największą motywacją do działania jest zadowolenie naszych klientów z profesjonalnie wykonanej usługi. Zapraszamy do zapoznania się z szeroką gamą naszych usług.
         </p>
     </div>
@@ -17,20 +17,20 @@
     <div class="grid grid-cols-12 gap-4 xl:gap-6">
         <div class="col-span-12 md:col-span-6 md:order-2 lg:col-span-4 grid gap-4 xl:gap-6">
             <!-- Card -->
-            <a class="md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg dark:before:border-gray-800 dark:before:hover:border-carrot-500 dark:rounded-xl dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+            <a class="md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="#">
                 <div class="relative overflow-hidden w-full h-full rounded-xl">
-                    <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl dark:border-gray-700">
+                    <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
                         <p class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-xs font-semibold uppercase">
                             Montaż
                         </p>
                         <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-7xl font-bold pb-4">
                             BI-LED
                         </span>
-                        <h3 class="mt-6 text-lg md:text-xl font-semibold text-gray-800 dark:text-gray-200">
+                        <h3 class="mt-6 text-lg md:text-xl font-semibold text-gray-800">
                             Przerabianie lamp
                         </h3>
                         <p class="mt-2 text-gray-500">
-                            Najczęściej wybierana <span class="font-semibold text-gray-800 dark:text-gray-200">nowoczesna</span> technologia BI-LED. Wzrastająca popularność tego rozwiązania technologicznego wspierająca Twój <span class="font-semibold text-gray-800 dark:text-gray-200">komfort</span> i <span class="font-semibold text-gray-800 dark:text-gray-200">bezpieczeństwo</span> na jezdni.
+                            Najczęściej wybierana <span class="font-semibold text-gray-800">nowoczesna</span> technologia BI-LED. Wzrastająca popularność tego rozwiązania technologicznego wspierająca Twój <span class="font-semibold text-gray-800">komfort</span> i <span class="font-semibold text-gray-800">bezpieczeństwo</span> na jezdni.
                         </p>
                         <p class="mt-6 inline-flex justify-center items-center gap-x-1 text-center bg-carrot-500 hover:bg-carrot-700 border border-transparent text-white text-sm font-medium rounded-lg py-3 px-4">
                             Umów wizytę
@@ -40,21 +40,21 @@
                         </p>
                     </div>
 
-                    <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2 dark:bg-carrot-900/30"></div>
-                    <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-gray-100 blur-[100px] -translate-y-full -translate-x-1/2 dark:bg-gray-900/30"></div>
-                    <div class="absolute top-1/2 start-1/2 -z-[1] w-60 h-32 bg-gray-100 blur-[100px] -translate-y-1/2 -translate-x-1/2 dark:bg-gray-900/30"></div>
-                    <div class="absolute -bottom-40 -end-24 -z-[1] w-60 h-32 bg-carrot-200 blur-[100px] dark:bg-carrot-900/70"></div>
-                    <div class="absolute -bottom-[635px] -end-[635px] -z-[1] w-[635px] h-[635px] border border-dashed border-gray-200 rounded-full transform -translate-y-[255px] -translate-x-[310px] opacity-40 dark:border-gray-900/60"></div>
-                    <div class="absolute -bottom-[490px] -end-[490px] -z-[1] w-[490px] h-[490px] border border-dashed border-gray-200 rounded-full transform -translate-y-[190px] -translate-x-[240px] opacity-60 dark:border-gray-900/60"></div>
-                    <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80 dark:border-gray-900/60"></div>
-                    <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px] dark:border-gray-900/60"></div>
+                    <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
+                    <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-gray-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
+                    <div class="absolute top-1/2 start-1/2 -z-[1] w-60 h-32 bg-gray-100 blur-[100px] -translate-y-1/2 -translate-x-1/2"></div>
+                    <div class="absolute -bottom-40 -end-24 -z-[1] w-60 h-32 bg-carrot-200 blur-[100px]"></div>
+                    <div class="absolute -bottom-[635px] -end-[635px] -z-[1] w-[635px] h-[635px] border border-dashed border-gray-200 rounded-full transform -translate-y-[255px] -translate-x-[310px] opacity-40"></div>
+                    <div class="absolute -bottom-[490px] -end-[490px] -z-[1] w-[490px] h-[490px] border border-dashed border-gray-200 rounded-full transform -translate-y-[190px] -translate-x-[240px] opacity-60"></div>
+                    <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
+                    <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
                 </div>
             </a>
             <!-- End Card -->
 
             <!-- Card -->
-            <a class="md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg dark:before:border-gray-800 dark:before:hover:border-carrot-500 dark:rounded-xl dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
-                <h3 class="text-lg md:text-xl font-semibold text-gray-800 dark:text-gray-200">
+            <a class="md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="#">
+                <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                     Przeróbka lamp UK USA na EU
                 </h3>
                 <p class="mt-2 text-gray-500">
@@ -73,75 +73,75 @@
 
         <div class="col-span-12 md:col-span-6 lg:col-span-4 md:order-1 grid gap-4 xl:gap-6">
             <!-- Card -->
-            <a class="md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg dark:before:border-gray-800 dark:before:hover:border-carrot-500 dark:rounded-xl dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+            <a class="md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="#">
                 <div class="relative overflow-hidden w-full h-full rounded-xl">
-                    <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl dark:border-gray-700">
+                    <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
                         <p class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-xs font-semibold uppercase">
                             Pełna
                         </p>
                         <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl font-bold pb-4">
                             Regeneracja
                         </span>
-                        <h3 class="text-lg md:text-xl font-semibold text-gray-800 dark:text-gray-200">
+                        <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                             Reflektorów i odbłyśników
                         </h3>
                         <ul class="flex flex-col text-start space-y-1.5 mt-6">
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-broom w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-broom w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Oczyszczenie</span> reflektora
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Oczyszczenie</span> reflektora
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-eraser w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-eraser w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Usunięcie</span> starej powłoki <span class="font-semibold text-gray-800 dark:text-gray-200">odbłyśnika</span> oraz jego <span class="font-semibold text-gray-800 dark:text-gray-200">wymontowanie</span>
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Usunięcie</span> starej powłoki <span class="font-semibold text-gray-800">odbłyśnika</span> oraz jego <span class="font-semibold text-gray-800">wymontowanie</span>
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-oil-can w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-oil-can w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Odtłuszczenie</span> i przygotowanie do nałożenia podkładu
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Odtłuszczenie</span> i przygotowanie do nałożenia podkładu
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-wand-magic-sparkles w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-wand-magic-sparkles w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Napylenie aluminium</span> — metalizacja w próżni
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Napylenie aluminium</span> — metalizacja w próżni
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-brush w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-brush w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Konserwacja</span> części mechanicznych
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Konserwacja</span> części mechanicznych
                                 </p>
                             </li>
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-wand-sparkles w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-wand-sparkles w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Polerowanie</span> powierzchni klosza
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Polerowanie</span> powierzchni klosza
                                 </p>
                             </li>
                         </ul>
@@ -153,14 +153,14 @@
                         </p>
                     </div>
 
-                    <div class="absolute top-1/2 -start-1/2 -z-[1] w-60 h-32 bg-carrot-100 blur-[100px] -translate-y-1/2 dark:bg-carrot-900/30"></div>
+                    <div class="absolute top-1/2 -start-1/2 -z-[1] w-60 h-32 bg-carrot-100 blur-[100px] -translate-y-1/2"></div>
                 </div>
             </a>
             <!-- End Card -->
 
             <!-- Card -->
-            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg dark:before:border-gray-800 dark:before:hover:border-carrot-500 dark:rounded-xl dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="./docs/index.html">
-                <h3 class="text-lg md:text-xl font-semibold text-gray-800 dark:text-gray-200">
+            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="#">
+                <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                     Wymiana kloszy
                 </h3>
                 <p class="mt-2 text-gray-500">
@@ -180,65 +180,65 @@
         <div class="col-span-12 lg:col-span-4 md:order-3 grid md:grid-cols-2 lg:grid-cols-1 gap-4 xl:gap-6">
             <!-- Card -->
             <a class="md:order-2 relative" href="#">
-                <div class="overflow-hidden p-6 flex flex-col justify-between items-center md:min-h-[480px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg dark:before:border-gray-800 dark:before:hover:border-carrot-500">
-                    <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl dark:border-gray-700">
+                <div class="overflow-hidden p-6 flex flex-col justify-between items-center md:min-h-[480px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+                    <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
                         <p class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-xs font-semibold uppercase">
                             Naprawa
                         </p>
                         <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl font-bold pb-4">
                             Lamp
                         </span>
-                        <h3 class="text-lg md:text-xl font-semibold text-gray-800 dark:text-gray-200">
+                        <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                             LED
                         </h3>
                         <ul class="flex flex-col text-start space-y-1.5 mt-6">
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-hand-holding-dollar w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-hand-holding-dollar w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Koszt</span> naprawy jest niski
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Koszt</span> naprawy jest niski
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-business-time w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-business-time w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Usługę</span> wykonujemy <span class="font-semibold text-gray-800 dark:text-gray-200">w kilka godzin</span>
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Usługę</span> wykonujemy <span class="font-semibold text-gray-8">w kilka godzin</span>
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-ranking-star w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-ranking-star w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Najwyższa</span> jakość wykonywania usług
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Najwyższa</span> jakość wykonywania usług
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-chart-line w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-chart-line w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Poprawa</span> widoczności na drodze
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Poprawa</span> widoczności na drodze
                                 </p>
                             </li>
 
                             <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                                 <div class="mt-0.5 relative h-full">
-                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300 dark:border-gray-600"></div>
-                                    <i class="fa-solid fa-rotate w-5 h-5 text-gray-800 dark:text-gray-200"></i>
+                                    <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                                    <i class="fa-solid fa-rotate w-5 h-5 text-gray-800"></i>
                                 </div>
-                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm dark:text-gray-400 dark:bg-slate-900 dark:border-gray-700">
-                                    <span class="font-semibold text-gray-800 dark:text-gray-200">Używalność</span> reflektorów zostaje przywrócona
+                                <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                                    <span class="font-semibold text-gray-800">Używalność</span> reflektorów zostaje przywrócona
                                 </p>
                             </li>
                         </ul>
@@ -269,8 +269,8 @@
             <!-- End Card -->
 
             <!-- Card -->
-            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg dark:before:border-gray-800 dark:before:hover:border-carrot-500 dark:rounded-xl dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="./figma.html">
-                <h3 class="text-lg md:text-xl font-semibold text-gray-800 dark:text-gray-200">
+            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="#">
+                <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                     Polerowanie lamp
                 </h3>
                 <p class="mt-2 text-gray-500">
