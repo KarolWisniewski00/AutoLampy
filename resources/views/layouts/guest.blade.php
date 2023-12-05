@@ -25,7 +25,7 @@
     <nav class="bg-white fixed w-full z-20 top-0 start-0 border-b border-gray-200">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="{{route('index')}}" class="flex items-center space-x-4 rtl:space-x-reverse">
-                AUTOLAMPY
+                <img alt="" src="{{asset('photo/logo.jpg')}}" class="w-28">
             </a>
             <div class="flex md:order-2 space-x-4 md:space-x-0 rtl:space-x-reverse">
                 <a href="tel:+48791066550" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-phone"></i></a>
@@ -60,15 +60,6 @@
                     @else
                     <li>
                         <a href="{{route('service')}}" class="block py-2 px-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-carrot-500 md:p-0">Usługi</a>
-                    </li>
-                    @endif
-                    @if(request()->routeIs('shop'))
-                    <li>
-                        <a href="{{route('shop')}}" class="block py-2 px-4 text-white bg-carrot-500 rounded md:bg-transparent md:text-carrot-500 md:p-0" aria-current="page">Sklep online</a>
-                    </li>
-                    @else
-                    <li>
-                        <a href="{{route('shop')}}" class="block py-2 px-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-carrot-500 md:p-0">Sklep online</a>
                     </li>
                     @endif
                     @if(request()->routeIs('shipment'))
