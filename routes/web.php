@@ -22,9 +22,9 @@ use Illuminate\Support\Facades\Route;
 //CLIENT
 Route::get('/', [IndexController::class, 'index'])->name('index');
 Route::get('/o-nas', [AboutController::class, 'index'])->name('about');
-Route::get('/usługi', [ServiceController::class, 'index'])->name('service');
+Route::get('/uslugi', [ServiceController::class, 'index'])->name('service');
 Route::get('/sklep', [ShopController::class, 'index'])->name('shop');
-Route::get('/wysyłka', [ShipmentController::class, 'index'])->name('shipment');
+Route::get('/wysylka', [ShipmentController::class, 'index'])->name('shipment');
 Route::get('/kontakt', [ContactController::class, 'index'])->name('contact');
 
 //DASHBOARD

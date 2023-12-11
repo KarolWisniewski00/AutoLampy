@@ -2,7 +2,7 @@
 @section('content')
 <div class="relative -mt-2">
     <!-- Gradients -->
-    <div aria-hidden="true" class="flex absolute -top-96 start-1/2 transform -translate-x-1/2">
+    <div aria-hidden="true" class="flex absolute -top-96 start-1/2 transform -translate-x-1/2 w-full">
         <div class="bg-gradient-to-r from-gray-300/50 to-gray-100 blur-3xl w-[25rem] h-[44rem] rotate-[-60deg] transform -translate-x-[10rem] dark:from-gray-900/50 dark:to-gray-900"></div>
         <div class="bg-gradient-to-tl from-gray-50 via-gray-100 to-gray-50 blur-3xl w-[90rem] h-[50rem] rounded-fulls origin-top-left -rotate-12 -translate-x-[15rem] dark:from-indigo-900/70 dark:via-indigo-900/70 dark:to-gray-900/70"></div>
     </div>

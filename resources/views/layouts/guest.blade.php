@@ -12,6 +12,7 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
     <script src="https://kit.fontawesome.com/e37acf9c2e.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <!-- Scripts -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
@@ -25,7 +26,7 @@
     <nav class="bg-white fixed w-full z-20 top-0 start-0 border-b border-gray-200">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="{{route('index')}}" class="flex items-center space-x-4 rtl:space-x-reverse">
-                <img alt="" src="{{asset('photo/logo.jpg')}}" class="w-28">
+                <img alt="" src="{{asset('photo/logo.png')}}" class="w-28">
             </a>
             <div class="flex md:order-2 space-x-4 md:space-x-0 rtl:space-x-reverse">
                 <a href="tel:+48791066550" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-phone"></i></a>
@@ -109,6 +110,23 @@
     </footer>
 
     @livewireScripts
+    <script>
+        $(document).ready(function() {
+            // Po kliknięciu w ikonę hamburger menu
+            $('[data-collapse-toggle="navbar-sticky"]').click(function() {
+                // Znajdź element z id navbar-sticky i przełącz klasę 'hidden'
+                $('#navbar-sticky').toggleClass('hidden');
+            });
+
+            // Dodaj obsługę zamykania menu bocznego po kliknięciu w link wewnątrz sidebara
+            $('#navbar-sticky a').click(function() {
+                // Jeśli jesteśmy w trybie mobilnym (menu boczne jest widoczne), schowaj side bar po kliknięciu w link
+                if ($('#navbar-sticky').hasClass('hidden')) {
+                    $('#navbar-sticky').removeClass('hidden');
+                }
+            });
+        });
+    </script>
 </body>
 
 </html>
