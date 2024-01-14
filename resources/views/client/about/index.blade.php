@@ -56,7 +56,7 @@
     <!--BANNER-->
     <!-- Icon Blocks -->
     <div class="py-10 lg:py-14 mx-auto">
-        <div class="grid sm:grid-cols-2 lg:grid-cols-4 items-center gap-4">
+        <div class="grid grid-cols-2 lg:grid-cols-4 items-center gap-4">
             <div class="flex justify-center items-center text-5xl font-bold uppercase bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent">
                 <i class="fa-solid fa-car"></i>
             </div>

@@ -40,30 +40,35 @@
         <!-- End Col -->
 
         <div class="mt-5 sm:mt-10 lg:mt-0">
-            <div class="space-y-6 sm:space-y-8">
+            <h2 class="font-bold text-3xl lg:text-4xl text-gray-800 text-center">
+                Uprzejmie proszę przesyłać reflektory do regeneracji na adres:
+            </h2>
+            <div class="space-y-6 sm:space-y-8 flex flex-col justify-center items-center grid grid-cols-2">
                 <!-- Title -->
                 <div class="space-y-2 md:space-y-4">
-                    <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
-                        Uprzejmie proszę przesyłać reflektory do regeneracji na adres:
-                    </h2>
                     <p class="text-gray-500">
                     <div>Auto Gamma</div>
                     <div>Stefana Banacha 11</div>
                     <div>41-219 Sosnowiec</div>
                     <a href="tel:+48791066550" class="inline-flex items-center p-2 justify-center text-4xl text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-phone mr-2"></i>791 066 550</a>
                     </p>
-                    <h3>Do przesyłki proszę <span class="font-bold">włożyć kartkę</span> z:</h3>
                 </div>
                 <!-- End Title -->
 
                 <!-- List -->
                 <ul role="list" class="space-y-2 sm:space-y-4">
                     <li class="flex space-x-3">
+                        <span class="text-sm sm:text-base text-gray-500">
+                            <h3>Do przesyłki proszę <span class="font-bold">włożyć kartkę</span> z:</h3>
+                        </span>
+                    </li>
+                    <li class="flex space-x-3">
                         <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
                             <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <polyline points="20 6 9 17 4 12" />
                             </svg>
                         </span>
+
 
                         <span class="text-sm sm:text-base text-gray-500">
                             adres zwrotny
@@ -77,6 +82,7 @@
                             </svg>
                         </span>
 
+
                         <span class="text-sm sm:text-base text-gray-500">
                             nr kontaktowy
                         </span>
@@ -89,6 +95,7 @@
                             </svg>
                         </span>
 
+
                         <span class="text-sm sm:text-base text-gray-500">
                             wstępnie ustaloną ceną
                         </span>
@@ -99,6 +106,7 @@
                                 <polyline points="20 6 9 17 4 12" />
                             </svg>
                         </span>
+
 
                         <span class="text-sm sm:text-base text-gray-500">
                             dodatkowymi ustaleniami (jeśli były poczynione)
@@ -128,7 +136,7 @@
         <div class="mt-5 sm:mt-10 lg:mt-0">
             <div class="space-y-6 sm:space-y-8">
                 <!-- Title -->
-                <div class="space-y-2 md:space-y-4">
+                <div class="space-y-2 md:space-y-4 flex flex-col justify-center items-center text-center">
                     <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
                         DARMOWY KURIER
                     </h2>
@@ -163,7 +171,7 @@
         <div class="mt-5 sm:mt-10 lg:mt-0">
             <div class="space-y-6 sm:space-y-8">
                 <!-- Title -->
-                <div class="space-y-2 md:space-y-4 mb-4 md:mb-0">
+                <div class="space-y-2 md:space-y-4 mb-4 md:mb-0 flex flex-col justify-center items-center text-center">
                     <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
                         Uprzejmie proszę przesyłać reflektory do regeneracji na adres:
                     </h2>

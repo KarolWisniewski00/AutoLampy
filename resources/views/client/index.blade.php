@@ -67,18 +67,18 @@
 <!-- End Features -->
 <!--BANNER-->
 <div class="bg-gradient-to-r from-carrot-600 to-carrot-400">
-    <div class="grid grid-cols-3 items-center">
-        <div class="my-4 w-full">
+    <div class="grid grid-cols-1 md:grid-cols-3 items-center">
+        <div class="my-0 md:my-4 w-full">
             <div class="bg-cover bg-center h-full text-white py-72 px-10 object-fill" style="background-image: url({{asset('photo/before.jpg')}})">
 
             </div>
         </div>
-        <div class="my-4 w-full">
+        <div class="my-0 md:my-4 w-full">
             <div class="bg-cover bg-center h-full text-white py-72 px-10 object-fill" style="background-image: url({{asset('photo/center.jpg')}})">
 
             </div>
         </div>
-        <div class="my-4 w-full">
+        <div class="my-0 md:my-4 w-full">
             <div class="bg-cover bg-center h-full text-white py-72 px-10 object-fill" style="background-image: url({{asset('photo/after.jpg')}})">
 
             </div>

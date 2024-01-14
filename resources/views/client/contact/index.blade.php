@@ -42,7 +42,7 @@
         <div class="mt-5 sm:mt-10 lg:mt-0">
             <div class="space-y-6 sm:space-y-8">
                 <!-- Title -->
-                <div class="space-y-2 md:space-y-4">
+                <div class="space-y-2 md:space-y-4 text-center">
                     <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
                         Znajdziesz nas tutaj:
                     </h2>
@@ -59,7 +59,7 @@
         </div>
         <!-- End Col -->
         <div class="mt-4 md:mt-0">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2548.20292805302!2d19.175263277550894!3d50.30680499769486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716db4568792661%3A0x5b771baa8976af62!2sRegeneracja%20reflektor%C3%B3w%20i%20odb%C5%82y%C5%9Bnik%C3%B3w%20lamp%2C%20naprawa%20szyb%20-%20Auto%20Gamma!5e0!3m2!1spl!2spl!4v1705267194598!5m2!1spl!2spl" width="600" height="450" class="rounded-xl" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2548.20292805302!2d19.175263277550894!3d50.30680499769486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716db4568792661%3A0x5b771baa8976af62!2sRegeneracja%20reflektor%C3%B3w%20i%20odb%C5%82y%C5%9Bnik%C3%B3w%20lamp%2C%20naprawa%20szyb%20-%20Auto%20Gamma!5e0!3m2!1spl!2spl!4v1705267194598!5m2!1spl!2spl" class="rounded-xl w-full h-auto" style="min-height: 40vh;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
     <!-- End Grid -->
