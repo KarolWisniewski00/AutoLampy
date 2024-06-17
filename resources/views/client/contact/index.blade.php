@@ -43,15 +43,15 @@
             <div class="space-y-6 sm:space-y-8">
                 <!-- Title -->
                 <div class="space-y-2 md:space-y-4 text-center">
-                    <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
-                        Znajdziesz nas tutaj:
+                    <h2 class="font-bold text-4xl text-gray-800">
+                        Znajdziesz nas tutaj
                     </h2>
                     <p class="text-gray-500">
-                    <div>Stefana Banacha 11</div>
-                    <div>41-219 Sosnowiec</div>
+                    <div class="text-2xl">Stefana Banacha 11</div>
+                    <div class="text-2xl">41-219 Sosnowiec</div>
                     </p>
-                    <a href="tel:+48791066550" class="inline-flex items-center p-2 justify-center text-4xl text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-phone mr-2"></i>791 066 550</a>
-                    <a href="mailto:info@autogammasosnowiec.pl" class="inline-flex items-center p-2  justify-center text-4xl text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-envelope mr-2"></i>info@autogammasosnowiec.pl</a>
+                    <a href="tel:+48791066550" class="inline-flex items-center p-2 justify-center text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-lg px-4 py-2 text-center"><i class="fa-solid fa-phone mr-2"></i>791 066 550</a>
+                    <a href="mailto:info@autogammasosnowiec.pl" class="inline-flex items-center p-2  justify-center text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-lg px-4 py-2 text-center"><i class="fa-solid fa-envelope mr-2"></i>info@autogammasosnowiec.pl</a>
                 </div>
                 <!-- End Title -->
 

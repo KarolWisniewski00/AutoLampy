@@ -40,80 +40,74 @@
         <!-- End Col -->
 
         <div class="mt-5 sm:mt-10 lg:mt-0">
-            <h2 class="font-bold text-3xl lg:text-4xl text-gray-800 text-center">
-                Uprzejmie proszę przesyłać reflektory do regeneracji na adres:
+            <h2 class="font-bold text-2xl lg:text-4xl text-gray-800 text-center">
+                Dbając o twój czas i wygodę
             </h2>
-            <div class="space-y-6 sm:space-y-8 flex flex-col justify-center items-center grid grid-cols-2">
-                <!-- Title -->
-                <div class="space-y-2 md:space-y-4">
-                    <p class="text-gray-500">
-                    <div>Auto Gamma</div>
-                    <div>Stefana Banacha 11</div>
-                    <div>41-219 Sosnowiec</div>
-                    <a href="tel:+48791066550" class="inline-flex items-center p-2 justify-center text-4xl text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-phone mr-2"></i>791 066 550</a>
-                    </p>
-                </div>
-                <!-- End Title -->
-
-                <!-- List -->
-                <ul role="list" class="space-y-2 sm:space-y-4">
-                    <li class="flex space-x-3">
-                        <span class="text-sm sm:text-base text-gray-500">
-                            <h3>Do przesyłki proszę <span class="font-bold">włożyć kartkę</span> z:</h3>
+            <div class="py-6 space-y-6 sm:space-y-8 grid grid-cols-2 gap-6">
+                <ul role="list" class="space-y-2 sm:space-y-4" style="margin: 0;">
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span class="text-xl">
+                            <h3 class="mb-6"><span class="font-bold">Możesz do nas wysłać lampy</span> na poniższy adres</h3>
                         </span>
                     </li>
-                    <li class="flex space-x-3">
-                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
-                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                <polyline points="20 6 9 17 4 12" />
-                            </svg>
-                        </span>
-
-
-                        <span class="text-sm sm:text-base text-gray-500">
-                            adres zwrotny
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span>
+                            Auto Gamma
                         </span>
                     </li>
-
-                    <li class="flex space-x-3">
-                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
-                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                <polyline points="20 6 9 17 4 12" />
-                            </svg>
-                        </span>
-
-
-                        <span class="text-sm sm:text-base text-gray-500">
-                            nr kontaktowy
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span>
+                            Stefana Banacha 11
                         </span>
                     </li>
-
-                    <li class="flex space-x-3">
-                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
-                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                <polyline points="20 6 9 17 4 12" />
-                            </svg>
-                        </span>
-
-
-                        <span class="text-sm sm:text-base text-gray-500">
-                            wstępnie ustaloną ceną
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span>
+                            41-219 Sosnowiec
                         </span>
                     </li>
-                    <li class="flex space-x-3">
-                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
-                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                <polyline points="20 6 9 17 4 12" />
-                            </svg>
-                        </span>
-
-
-                        <span class="text-sm sm:text-base text-gray-500">
-                            dodatkowymi ustaleniami (jeśli były poczynione)
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span>
+                            <a href="tel:+48791066550" class="inline-flex items-center p-2 justify-center text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-lg px-4 py-2 text-center"><i class="fa-solid fa-phone mr-2"></i>791 066 550</a>
                         </span>
                     </li>
                 </ul>
-                <!-- End List -->
+                <ul role="list" class="space-y-2 sm:space-y-4" style="margin: 0;">
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span class="text-xl">
+                            <h3 class="mb-6">Nie zapomnij <span class="font-bold">o dołączeniu poniższych informacji</span></h3>
+                        </span>
+                    </li>
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
+                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12" />
+                            </svg>
+                        </span>
+                        <span>
+                            Adres zwrotny
+                        </span>
+                    </li>
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
+                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12" />
+                            </svg>
+                        </span>
+                        <span>
+                            Numer kontaktowy
+                        </span>
+                    </li>
+                    <li class="flex space-x-3 lg:text-xl">
+                        <span class="mt-0.5 h-5 w-5 flex justify-center items-center rounded-full bg-carrot-50 text-carrot-600 ">
+                            <svg class="flex-shrink-0 h-3.5 w-3.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12" />
+                            </svg>
+                        </span>
+                        <span>
+                            Opis lub zakres prac do realizacji
+                        </span>
+                    </li>
+                </ul>
             </div>
         </div>
         <!-- End Col -->
@@ -138,18 +132,12 @@
                 <!-- Title -->
                 <div class="space-y-2 md:space-y-4 flex flex-col justify-center items-center text-center">
                     <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
-                        DARMOWY KURIER
+                        Kurier
                     </h2>
-                    <p class="text-gray-500">
+                    <p class="text-gray-500 lg:text-lg">
                         Wychodząc naprzeciw naszym klientom zawsze staramy się, aby nasze usługi były jak najwyższej jakości. Dlatego możesz zamówić kuriera który odbierze paczkę i dostarczy ją na nasz adres.
                     </p>
-                    <p class="text-gray-500">
-                        Wysyłka w naszą stronę na terenie Polski jest <span class="font-bold">DARMOWA</span>
-                    </p>
-                    <p class="text-gray-500">
-                        Przesyłka zwrotna do Klienta jest płatna.
-                    </p>
-                    <p class="text-gray-500">
+                    <p class="text-gray-500 lg:text-lg">
                         Pamiętaj, aby wydrukować list przewozowy oraz zapakować przesyłkę w bezpieczny sposób!
                     </p>
                     <!-- End Title -->
@@ -161,32 +149,4 @@
     </div>
     <!-- End Features -->
 </div>
-<!-- Features -->
-<div class="max-w-[85rem] px-4 sm:px-6 lg:px-8 mx-auto relative z-10 mb-20">
-    <!-- Grid -->
-    <div class="md:grid  md:items-center md:gap-12 xl:gap-32">
-
-        <!-- End Col -->
-
-        <div class="mt-5 sm:mt-10 lg:mt-0">
-            <div class="space-y-6 sm:space-y-8">
-                <!-- Title -->
-                <div class="space-y-2 md:space-y-4 mb-4 md:mb-0 flex flex-col justify-center items-center text-center">
-                    <h2 class="font-bold text-3xl lg:text-4xl text-gray-800">
-                        Uprzejmie proszę przesyłać reflektory do regeneracji na adres:
-                    </h2>
-                    <p class="text-gray-500">
-                        Do przesyłki prosimy również dołączyć poniższy formularz
-                    </p>
-                    <a href="#" class="inline-flex items-center p-2 justify-center text-sm text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-cloud-arrow-down mr-2"></i>Pobierz formularz lampy tył</a>
-                    <a href="#" class="inline-flex items-center p-2 justify-center text-sm text-white bg-carrot-500 hover:bg-carrot-600 focus:ring-4 focus:outline-none focus:ring-carrot-300 font-medium rounded-lg text-sm px-4 py-2 text-center"><i class="fa-solid fa-cloud-arrow-down mr-2"></i>Pobierz formularz lampy przód</a>
-                </div>
-                <!-- End Title -->
-
-            </div>
-        </div>
-    </div>
-    <!-- End Grid -->
-</div>
-<!-- End Features -->
 @endsection

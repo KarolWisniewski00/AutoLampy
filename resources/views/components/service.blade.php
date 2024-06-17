@@ -42,7 +42,7 @@
                 Przeróbka lamp UK USA na EU
             </h3>
             <p class="mt-2 text-gray-500">
-                Adaptacja lamp tak, aby odpowiadały standardom unii europejskiej
+                Adaptacja lamp tak, aby odpowiadały standardom europejskim
             </p>
             <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
                 Zapytaj o wycenę
@@ -119,15 +119,6 @@
                                 <span class="font-semibold text-gray-800">Konserwacja</span> części mechanicznych
                             </p>
                         </li>
-                        <li class="relative flex gap-x-4 pb-7 overflow-hidden">
-                            <div class="mt-0.5 relative h-full">
-                                <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
-                                <i class="fa-solid fa-wand-sparkles w-5 h-5 text-gray-800"></i>
-                            </div>
-                            <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
-                                <span class="font-semibold text-gray-800">Polerowanie</span> powierzchni klosza
-                            </p>
-                        </li>
                     </ul>
                     <p class="mt-6 inline-flex justify-center items-center gap-x-1 text-center bg-carrot-500 hover:bg-carrot-700 border border-transparent text-white text-sm font-medium rounded-lg py-3 px-4">
                         Zadzwoń i dowiedz się więcej
@@ -145,11 +136,59 @@
         <!-- Card -->
         <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
             <h3 class="text-lg md:text-xl font-semibold text-gray-800">
-                Wymiana kloszy
+                Tuning lamp
             </h3>
-            <p class="mt-2 text-gray-500">
-                Jest niezbędna w przypadku, gdy ulegną one uszkodzeniu lub ulegną zmatowieniu, co wpływa na skuteczność oświetlenia drogi.
-            </p>
+            <ul class="flex flex-col text-start space-y-1.5 mt-6">
+                <li class="relative flex gap-x-4 pb-7 overflow-hidden">
+                    <div class="mt-0.5 relative h-full">
+                        <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                        <i class="fa-solid fa-broom w-5 h-5 text-gray-800"></i>
+                    </div>
+                    <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                        <span class="font-semibold text-gray-800">Malowanie</span> wnętrza lamp
+                    </p>
+                </li>
+
+                <li class="relative flex gap-x-4 pb-7 overflow-hidden">
+                    <div class="mt-0.5 relative h-full">
+                        <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                        <i class="fa-solid fa-screwdriver-wrench w-5 h-5 text-gray-800"></i>
+                    </div>
+                    <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                        <span class="font-semibold text-gray-800">Montaż</span> ringów
+                    </p>
+                </li>
+
+                <li class="relative flex gap-x-4 pb-7 overflow-hidden">
+                    <div class="mt-0.5 relative h-full">
+                        <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                        <i class="fa-solid fa-wand-magic-sparkles w-5 h-5 text-gray-800"></i>
+                    </div>
+                    <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                        <span class="font-semibold text-gray-800">Paski DRL</span> — dynamiczny kierunkowskaz
+                    </p>
+                </li>
+
+                <li class="relative flex gap-x-4 pb-7 overflow-hidden">
+                    <div class="mt-0.5 relative h-full">
+                        <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                        <i class="fa-solid fa-eye w-5 h-5 text-gray-800"></i>
+                    </div>
+                    <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                        Podświetlenie soczewki <span class="font-semibold text-gray-800">„Devil Eyes”</span>
+                    </p>
+                </li>
+
+                <li class="relative flex gap-x-4 pb-7 overflow-hidden">
+                    <div class="mt-0.5 relative h-full">
+                        <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
+                        <i class="fa-solid fa-circle-half-stroke w-5 h-5 text-gray-800"></i>
+                    </div>
+                    <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
+                        <span class="font-semibold text-gray-800">Przyciemnianie</span> kloszy
+                    </p>
+                </li>
+            </ul>
             <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
                 Zapytaj i dowiedz się więcej
                 <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -172,57 +211,54 @@
                     <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl font-bold pb-4">
                         Lamp
                     </span>
-                    <h3 class="text-lg md:text-xl font-semibold text-gray-800">
-                        LED
-                    </h3>
                     <ul class="flex flex-col text-start space-y-1.5 mt-6">
                         <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                             <div class="mt-0.5 relative h-full">
                                 <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
-                                <i class="fa-solid fa-hand-holding-dollar w-5 h-5 text-gray-800"></i>
+                                <i class="fa-solid fa-wrench w-5 h-5 text-gray-800"></i>
                             </div>
                             <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
-                                <span class="font-semibold text-gray-800">Koszt</span> naprawy jest niski
+                                <span class="font-semibold text-gray-800">Wymiana</span> kloszy
                             </p>
                         </li>
 
                         <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                             <div class="mt-0.5 relative h-full">
                                 <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
-                                <i class="fa-solid fa-business-time w-5 h-5 text-gray-800"></i>
+                                <i class="fa-solid fa-lightbulb w-5 h-5 text-gray-800"></i>
                             </div>
                             <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
-                                <span class="font-semibold text-gray-800">Usługę</span> wykonujemy <span class="font-semibold text-gray-8">w kilka godzin</span>
+                                Naprawa <span class="font-semibold text-gray-800">LED</span>
                             </p>
                         </li>
 
                         <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                             <div class="mt-0.5 relative h-full">
                                 <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
-                                <i class="fa-solid fa-ranking-star w-5 h-5 text-gray-800"></i>
+                                <i class="fa-solid fa-droplet w-5 h-5 text-gray-800"></i>
                             </div>
                             <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
-                                <span class="font-semibold text-gray-800">Najwyższa</span> jakość wykonywania usług
+                                Uszczelnianie <span class="font-semibold text-gray-800">lamp</span>
                             </p>
                         </li>
 
                         <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                             <div class="mt-0.5 relative h-full">
                                 <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
-                                <i class="fa-solid fa-chart-line w-5 h-5 text-gray-800"></i>
+                                <i class="fa-solid fa-wand-magic-sparkles w-5 h-5 text-gray-800"></i>
                             </div>
                             <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
-                                <span class="font-semibold text-gray-800">Poprawa</span> widoczności na drodze
+                                <span class="font-semibold text-gray-800">Spawanie</span> uchwytów
                             </p>
                         </li>
 
                         <li class="relative flex gap-x-4 pb-7 overflow-hidden">
                             <div class="mt-0.5 relative h-full">
                                 <div class="absolute top-7 bottom-0 start-2.5 w-px h-96 -ms-px border-e border-dashed border-gray-300"></div>
-                                <i class="fa-solid fa-rotate w-5 h-5 text-gray-800"></i>
+                                <i class="fa-solid fa-sliders w-5 h-5 text-gray-800"></i>
                             </div>
                             <p class="py-1.5 px-2.5 rounded-full text-xs font-medium text-gray-600 bg-white border border-gray-200 shadow-sm">
-                                <span class="font-semibold text-gray-800">Używalność</span> reflektorów zostaje przywrócona
+                                <span class="font-semibold text-gray-800">Regulacja</span> poziomowania
                             </p>
                         </li>
                     </ul>
