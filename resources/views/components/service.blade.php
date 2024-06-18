@@ -1,7 +1,7 @@
 <div class="grid grid-cols-12 gap-4 xl:gap-6">
     <div class="col-span-12 md:col-span-6 md:order-2 lg:col-span-4 grid gap-4 xl:gap-6">
         <!-- Card -->
-        <a class="md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+        <a class="gsap md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#biled">
             <div class="relative overflow-hidden w-full h-full rounded-xl">
                 <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
                     <p class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-xs font-semibold uppercase">
@@ -17,7 +17,7 @@
                         Najczęściej wybierana <span class="font-semibold text-gray-800">nowoczesna</span> technologia BI-LED. Wzrastająca popularność tego rozwiązania technologicznego wspierająca Twój <span class="font-semibold text-gray-800">komfort</span> i <span class="font-semibold text-gray-800">bezpieczeństwo</span> na jezdni.
                     </p>
                     <p class="mt-6 inline-flex justify-center items-center gap-x-1 text-center bg-carrot-500 hover:bg-carrot-700 border border-transparent text-white text-sm font-medium rounded-lg py-3 px-4">
-                        Zadzwoń i umów wizytę
+                        Dowiedz się więcej
                         <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <path d="m9 18 6-6-6-6"></path>
                         </svg>
@@ -37,7 +37,7 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+        <a class="gsap md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#eu">
             <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                 Przeróbka lamp UK USA na EU
             </h3>
@@ -45,7 +45,7 @@
                 Adaptacja lamp tak, aby odpowiadały standardom europejskim
             </p>
             <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
-                Zapytaj o wycenę
+                Dowiedz się więcej
                 <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="m9 18 6-6-6-6"></path>
                 </svg>
@@ -57,7 +57,7 @@
 
     <div class="col-span-12 md:col-span-6 lg:col-span-4 md:order-1 grid gap-4 xl:gap-6">
         <!-- Card -->
-        <a class="md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+        <a class="gsap md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#re">
             <div class="relative overflow-hidden w-full h-full rounded-xl">
                 <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
                     <p class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-xs font-semibold uppercase">
@@ -121,7 +121,7 @@
                         </li>
                     </ul>
                     <p class="mt-6 inline-flex justify-center items-center gap-x-1 text-center bg-carrot-500 hover:bg-carrot-700 border border-transparent text-white text-sm font-medium rounded-lg py-3 px-4">
-                        Zadzwoń i dowiedz się więcej
+                        Dowiedz się więcej
                         <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <path d="m9 18 6-6-6-6"></path>
                         </svg>
@@ -134,7 +134,7 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+        <a class="gsap md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#tuning">
             <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                 Tuning lamp
             </h3>
@@ -190,7 +190,7 @@
                 </li>
             </ul>
             <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
-                Zapytaj i dowiedz się więcej
+                Dowiedz się więcej
                 <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="m9 18 6-6-6-6"></path>
                 </svg>
@@ -202,8 +202,8 @@
 
     <div class="col-span-12 lg:col-span-4 md:order-3 grid md:grid-cols-2 lg:grid-cols-1 gap-4 xl:gap-6">
         <!-- Card -->
-        <a class="md:order-2 relative" href="tel:+48791066550">
-            <div class="overflow-hidden p-6 flex flex-col justify-between items-center md:min-h-[480px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+        <a class="gsap md:order-2 relative" href="{{route('service')}}#rep">
+            <div class="h-full overflow-hidden p-6 flex flex-col justify-between items-center md:min-h-[480px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
                 <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
                     <p class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-xs font-semibold uppercase">
                         Naprawa
@@ -263,7 +263,7 @@
                         </li>
                     </ul>
                     <p class="mt-6 inline-flex justify-center items-center gap-x-1 text-center bg-carrot-500 hover:bg-carrot-700 border border-transparent text-white text-sm font-medium rounded-lg py-3 px-4">
-                        Sprawdź
+                        Dowiedz się więcej
                         <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                             <path d="m9 18 6-6-6-6"></path>
                         </svg>
@@ -289,7 +289,7 @@
         <!-- End Card -->
 
         <!-- Card -->
-        <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+        <a class="gsap md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[230px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
             <h3 class="text-lg md:text-xl font-semibold text-gray-800">
                 Polerowanie lamp
             </h3>
@@ -297,7 +297,7 @@
                 Codzienne użytkowanie samochodu wiąże się z etapowym zużywaniem wszystkich części i podzespołów. Proces ten nie omija także lamp. Pocieszający jest fakt, że częste podróże i intensywne korzystanie z pojazdu nie prowadzą do konieczności całkowitej wymiany lamp
             </p>
             <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
-                Zadzwoń
+                Zadzwoń i zarezerwuj termin
                 <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="m9 18 6-6-6-6"></path>
                 </svg>

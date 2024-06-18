@@ -33,7 +33,7 @@
     </div>
 </div>
 <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 pb-12 md:pt-12 md:pb-24 -mt-2">
-    <div class="my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+    <a href="tel:+48791066550" id="re" class="flex my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
         <div class="relative overflow-hidden w-full h-full rounded-xl">
             <div class="p-6 flex flex-col justify-center items-center md:min-h-[380px] text-center rounded-xl">
                 <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl md:text-7xl font-bold pb-4">
@@ -52,6 +52,12 @@
                     przed promieniowaniem UV i mechanicznymi uszkodzeniami na dłuższy
                     czas.
                 </p>
+                <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
+                    Zadzwoń
+                    <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="m9 18 6-6-6-6"></path>
+                    </svg>
+                </p>
             </div>
 
             <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
@@ -63,8 +69,8 @@
             <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
             <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
         </div>
-    </div>
-    <div class="my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+    </a>
+    <a href="tel:+48791066550" id="biled" class="flex my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
         <div class="relative overflow-hidden w-full h-full rounded-xl">
             <div class="p-6 flex flex-col justify-center items-center md:min-h-[380px] text-center rounded-xl">
                 <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl md:text-4xl md:text-7xl font-bold pb-4">
@@ -83,6 +89,12 @@
                     zwiększa. Dodatkowo soczewki BI-LED zdecydowanie wpływają na lepszy i
                     nowoczesny wygląd twojego samochodu.
                 </p>
+                <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
+                    Zadzwoń
+                    <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="m9 18 6-6-6-6"></path>
+                    </svg>
+                </p>
             </div>
 
             <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
@@ -94,8 +106,8 @@
             <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
             <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
         </div>
-    </div>
-    <div class="my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+    </a>
+    <a href="tel:+48791066550" id="tuning" class="flex my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
         <div class="relative overflow-hidden w-full h-full rounded-xl">
             <div class="p-6 flex flex-col justify-center items-center md:min-h-[380px] text-center rounded-xl">
                 <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl md:text-7xl font-bold pb-4">
@@ -110,6 +122,12 @@
                     unikatowy system podświetlenia soczewki tzw „devil eyes” oraz wiele
                     innych.
                 </p>
+                <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
+                    Zadzwoń
+                    <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="m9 18 6-6-6-6"></path>
+                    </svg>
+                </p>
             </div>
 
             <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
@@ -121,8 +139,8 @@
             <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
             <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
         </div>
-    </div>
-    <div class="my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+    </a>
+    <a href="tel:+48791066550" id="rep" class="flex my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
         <div class="relative overflow-hidden w-full h-full rounded-xl">
             <div class="p-6 flex flex-col justify-center items-center md:min-h-[380px] text-center rounded-xl">
                 <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl md:text-7xl font-bold pb-4">
@@ -137,33 +155,11 @@
                     elementy plastikowe. W naszej ofercie znajdziesz również naprawę
                     ledowych lamp tylnych.
                 </p>
-            </div>
-
-            <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
-            <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-gray-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
-            <div class="absolute top-1/2 start-1/2 -z-[1] w-60 h-32 bg-gray-100 blur-[100px] -translate-y-1/2 -translate-x-1/2"></div>
-            <div class="absolute -bottom-40 -end-24 -z-[1] w-60 h-32 bg-carrot-200 blur-[100px]"></div>
-            <div class="absolute -bottom-[635px] -end-[635px] -z-[1] w-[635px] h-[635px] border border-dashed border-gray-200 rounded-full transform -translate-y-[255px] -translate-x-[310px] opacity-40"></div>
-            <div class="absolute -bottom-[490px] -end-[490px] -z-[1] w-[490px] h-[490px] border border-dashed border-gray-200 rounded-full transform -translate-y-[190px] -translate-x-[240px] opacity-60"></div>
-            <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
-            <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
-        </div>
-    </div>
-    <div class="my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
-        <div class="relative overflow-hidden w-full h-full rounded-xl">
-            <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
-                <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl md:text-7xl font-bold pb-4">
-                    Przeróbka lamp USA, UK na EU
-                </span>
-                <p class="mt-2 text-gray-500">
-                    Dostosujemy twoje lampy w sprowadzonym samochodzie do standardów
-                    europejskich, aby bez problemów można było zrobić przegląd techniczny.
-                    Przerabiamy reflektory i lampy poprzez zmienę przysłony w reflektorach,
-                    czy kolorów diód kierunkowskazów w lampach tylnych, dokonujemy
-
-                    również kodowania, oraz montażu światła przeciwmgielnego, w przypadku
-                    jego braku. Dodatkowo możemy zmienić oprogramowanie w urządzeniach
-                    multimedialnych, np. na język polski.
+                <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
+                    Zadzwoń
+                    <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="m9 18 6-6-6-6"></path>
+                    </svg>
                 </p>
             </div>
 
@@ -176,6 +172,40 @@
             <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
             <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
         </div>
-    </div>
+    </a>
+    <a href="tel:+48791066550" id="eu" class="flex my-6 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
+        <div class="relative overflow-hidden w-full h-full rounded-xl">
+            <div class="p-6 flex flex-col justify-center items-center md:min-h-[480px] text-center rounded-xl">
+                <span class="bg-clip-text bg-gradient-to-l from-carrot-400 to-carrot-600 text-transparent text-4xl md:text-7xl font-bold pb-4">
+                    Przeróbka lamp USA, UK na EU
+                </span>
+                <p class="mt-2 text-gray-500">
+                    Dostosujemy twoje lampy w sprowadzonym samochodzie do standardów
+                    europejskich, aby bez problemów można było wykonać przegląd techniczny.
+                    Przerabiamy reflektory i lampy poprzez zmianę przysłony w reflektorach,
+                    czy kolorów diód kierunkowskazów w lampach tylnych, dokonujemy
+
+                    również kodowania, oraz montażu światła przeciwmgielnego, w przypadku
+                    jego braku. Dodatkowo możemy zmienić oprogramowanie w urządzeniach
+                    multimedialnych, np. na język polski.
+                </p>
+                <p class="mt-4 inline-flex items-center gap-x-1 text-carrot-600 font-medium">
+                    Zadzwoń
+                    <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="m9 18 6-6-6-6"></path>
+                    </svg>
+                </p>
+            </div>
+
+            <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-carrot-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
+            <div class="absolute top-0 start-full -z-[1] w-60 h-20 bg-gray-100 blur-[100px] -translate-y-full -translate-x-1/2"></div>
+            <div class="absolute top-1/2 start-1/2 -z-[1] w-60 h-32 bg-gray-100 blur-[100px] -translate-y-1/2 -translate-x-1/2"></div>
+            <div class="absolute -bottom-40 -end-24 -z-[1] w-60 h-32 bg-carrot-200 blur-[100px]"></div>
+            <div class="absolute -bottom-[635px] -end-[635px] -z-[1] w-[635px] h-[635px] border border-dashed border-gray-200 rounded-full transform -translate-y-[255px] -translate-x-[310px] opacity-40"></div>
+            <div class="absolute -bottom-[490px] -end-[490px] -z-[1] w-[490px] h-[490px] border border-dashed border-gray-200 rounded-full transform -translate-y-[190px] -translate-x-[240px] opacity-60"></div>
+            <div class="absolute -bottom-[340px] -end-[340px] -z-[1] w-[340px] h-[340px] border border-dashed border-gray-200 rounded-full transform -translate-y-[120px] -translate-x-[170px] opacity-80"></div>
+            <div class="absolute -bottom-[200px] -end-[200px] -z-[1] w-[200px] h-[200px] border border-dashed border-gray-200 rounded-full transform -translate-y-[60px] -translate-x-[100px]"></div>
+        </div>
+    </a>
 </div>
 @endsection

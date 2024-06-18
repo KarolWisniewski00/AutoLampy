@@ -89,7 +89,7 @@
                     <div class="grid grid-cols-12 gap-4 xl:gap-6">
                         <div class="col-span-12 md:col-span-6 md:order-2 lg:col-span-4 grid gap-4 xl:gap-6">
                             <!-- Card -->
-                            <a class="md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#re">
                                 <div class="relative overflow-hidden w-full h-full rounded-xl">
                                     <div class="p-6 flex flex-col justify-center items-center md:min-h-[250px] text-center rounded-xl">
                                         <h3 class="text-md text-md font-semibold text-gray-800">
@@ -110,7 +110,7 @@
                             <!-- End Card -->
 
                             <!-- Card -->
-                            <a class="md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
                                 <h3 class="text-md text-md font-semibold text-gray-800">
                                     Polerowanie kloszy
                                 </h3>
@@ -121,7 +121,7 @@
 
                         <div class="col-span-12 md:col-span-6 lg:col-span-4 md:order-1 grid gap-4 xl:gap-6">
                             <!-- Card -->
-                            <a class="md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#biled">
                                 <div class="relative overflow-hidden w-full h-full rounded-xl">
                                     <div class="p-6 flex flex-col justify-center items-center md:min-h-[250px] text-center rounded-xl">
                                         <h3 class="text-md text-md font-semibold text-gray-800">
@@ -135,7 +135,7 @@
                             <!-- End Card -->
 
                             <!-- Card -->
-                            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#rep">
                                 <h3 class="text-md text-md font-semibold text-gray-800">
                                     Uszczelnianie i osuszanie zalanych reflektorów
                                 </h3>
@@ -146,7 +146,7 @@
 
                         <div class="col-span-12 lg:col-span-4 md:order-3 grid md:grid-cols-2 lg:grid-cols-1 gap-4 xl:gap-6">
                             <!-- Card -->
-                            <a class="md:order-2 relative" href="tel:+48791066550">
+                            <a class="gsap md:order-2 relative" href="{{route('service')}}#re">
                                 <div class="overflow-hidden p-6 flex flex-col justify-between items-center md:min-h-[250px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
                                     <div class="p-6 flex flex-col justify-center items-center md:min-h-[250px] text-center rounded-xl">
                                         <h3 class="text-md text-md font-semibold text-gray-800">
@@ -173,7 +173,7 @@
                             <!-- End Card -->
 
                             <!-- Card -->
-                            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#biled">
                                 <h3 class="text-md text-md font-semibold text-gray-800">
                                     Modyfikacja reflektorów na technologię BI-LED
                                 </h3>
@@ -185,7 +185,7 @@
                     <div class="grid grid-cols-12 gap-4 xl:gap-6">
                         <div class="col-span-12 md:col-span-6 md:order-2 lg:col-span-4 grid gap-4 xl:gap-6">
                             <!-- Card -->
-                            <a class="md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-1 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#tuning">
                                 <div class="relative overflow-hidden w-full h-full rounded-xl">
                                     <div class="p-6 flex flex-col justify-center items-center md:min-h-[250px] text-center rounded-xl">
                                         <h3 class="text-md text-md font-semibold text-gray-800">
@@ -206,7 +206,7 @@
                             <!-- End Card -->
 
                             <!-- Card -->
-                            <a class="md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-2 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#eu">
                                 <h3 class="text-md text-md font-semibold text-gray-800">
                                     Przeróbka lamp i reflektorów USA/UK na EU wraz z montażem światła przeciwmgielnego
                                 </h3>
@@ -217,7 +217,7 @@
 
                         <div class="col-span-12 md:col-span-6 lg:col-span-4 md:order-1 grid gap-4 xl:gap-6">
                             <!-- Card -->
-                            <a class="md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-2 relative before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
                                 <div class="relative overflow-hidden w-full h-full rounded-xl">
                                     <div class="p-6 flex flex-col justify-center items-center md:min-h-[250px] text-center rounded-xl">
                                         <h3 class="text-md text-md font-semibold text-gray-800">
@@ -231,7 +231,7 @@
                             <!-- End Card -->
 
                             <!-- Card -->
-                            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
                                 <h3 class="text-md text-md font-semibold text-gray-800">
                                     Wymiana kloszy i innych elementów reflektorów
                                 </h3>
@@ -242,7 +242,7 @@
 
                         <div class="col-span-12 lg:col-span-4 md:order-3 grid md:grid-cols-2 lg:grid-cols-1 gap-4 xl:gap-6">
                             <!-- Card -->
-                            <a class="md:order-2 relative" href="tel:+48791066550">
+                            <a class="gsap md:order-2 relative" href="{{route('service')}}#rep">
                                 <div class="overflow-hidden p-6 flex flex-col justify-between items-center md:min-h-[250px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg">
                                     <div class="p-6 flex flex-col justify-center items-center md:min-h-[250px] text-center rounded-xl">
                                         <h3 class="text-md text-md font-semibold text-gray-800">
@@ -269,7 +269,7 @@
                             <!-- End Card -->
 
                             <!-- Card -->
-                            <a class="md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="tel:+48791066550">
+                            <a class="gsap md:order-1 relative p-6 flex flex-col justify-center items-center md:min-h-[130px] text-center rounded-xl before:absolute before:inset-0 before:z-10 before:border before:border-gray-200 before:rounded-xl before:transition before:hover:border-2 before:hover:border-carrot-600 before:hover:shadow-lg" href="{{route('service')}}#re">
                                 <h3 class="text-md text-md font-semibold text-gray-800">
                                     Regeneracja odbłyśników
                                 </h3>
