@@ -123,7 +123,7 @@
         </div>
         <div class="w-full bg-white p-4 text-center text-gray-700">
             © 2023
-            <a class="text-gray-800" href="https://karolwisniewski.pl/">Karol Wiśniewski</a>
+            <a class="text-gray-800" href="+48451670344">Karol Wiśniewski</a>
         </div>
     </footer>
 
